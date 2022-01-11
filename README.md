@@ -9,6 +9,8 @@ Technology used in making of this project :
   Front-end : HTML 
               CSS
               JS
+              
+              
   Back-end : Node 
              Express 
              EJS 
