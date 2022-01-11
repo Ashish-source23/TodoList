@@ -24,3 +24,5 @@ Below is the link given for accessing the Project
      https://pure-inlet-92948.herokuapp.com
 
 Feel free to use it.
+
+![image](https://user-images.githubusercontent.com/83506458/148966054-f46dccdc-6d89-40f4-8dd6-0e524ede7930.png)
