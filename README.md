@@ -19,6 +19,6 @@ Hosted with the help of platform Heroku
 
 Below is the link given for accessing the Project 
 
-    Link : https://pure-inlet-92948.herokuapp.com
+     https://pure-inlet-92948.herokuapp.com
 
 Feel free to use it.
