@@ -4,7 +4,7 @@ This is a fullstack Todolist website Project created by Ashish Diwakar
 
 It is a Todolist which is capable of making as many as possible various custom templates on the fly i.e for your office, school, home or any other work.   
 
-Technology used in making of this project :
+Technologies used in making of this project :
 
   Front-end : HTML 
               CSS
