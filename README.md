@@ -17,11 +17,6 @@ Technologies used in making of this project :
              Mogoose 
              Atlas
              
-Hosted with the help of platform Heroku
-
-Below is the link given for accessing the Project 
-
-     https://pure-inlet-92948.herokuapp.com
 
 Feel free to use it.
 
